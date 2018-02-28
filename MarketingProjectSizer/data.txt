@@ -1,0 +1,46 @@
+Lightweight,Unisex,4,6,16,19,12,0,0
+Basics,Male,0,4,10,18,13,0,0
+Socks,Unisex,49,49,49,49,49,49,49
+Graphics,Male,2,2,9,15,12,2,0
+LS Light,Male,0,3,9,12,8,4,0
+Basics,Female,8,18,0,12,0,0,0
+Light,Unisex,3,8,3,10,2,4,3
+Wovens,Female,6,10,0,7,0,5,0
+Jackets,Male,2,2,6,12,6,2,0
+Core,Male,1,2,4,10,5,4,1
+Jackets,Female,7,10,0,6,0,5,0
+Dress,Male,1,3,3,9,2,3,1
+Basics,Male,7,7,0,7,0,0,0
+Wovens,Male,1,1,4,8,4,1,1
+Intimates,Female,6,10,03,0,1,0
+LS Light,Female,5,9,0,2,0,1,0
+Outerwear Dress,Male,2,2,2,7,1,1,1
+Jewelry,Female,4,6,0,3,0,3,0
+Bottoms Lounge,Male,1,3,2,6,2,1,1
+LS Heavy,Male,1,1,3,4,3,2,1
+Outerwear Dress,Female,2,6,0,4,0,1,0
+Heavy,Unisex,2,2,2,3,2,2,0
+Intimates,Male,0,0,3,5,3,1,0
+Lounge,Male,1,2,1,3,3,1,0
+Blankets,Unisex,11,11,11,11,11,11,11
+LS Heavy,Female,1,6,0,2,0,1,0
+Jackets,Male,3,4,0,3,0,0,0
+Hoodies,Male,0,1,2,3,2,2,0
+Sunglasses,Unisex,9,9,9,9,9,9,9
+Core,Female,2,4,0,2,0,1,0
+Hats,Female,3,8,0,3,0,3,0
+Dress,Female,1,5,0,2,0,0,0
+Bottoms Lounge,Female,1,3,0,3,0,1,0
+Scarves,Female,1,2,0,2,0,2,0
+Outerwear Hoodies,Male,0,1,1,2,1,1,1
+Lounge,Female,1,2,0,2,0,1,0
+Dresses,Female,1,3,0,1,0,0,0
+Scarves,Male,0,1,2,0,0,1,0
+Pants,Male,0,0,1,2,0,1,0
+Watches,Unisex,3,3,3,3,3,3,3
+Outerwear Hoodies,Female,1,1,0,0,0,1,0
+Heavyweight,Unisex,0,0,0,1,1,1,0
+Graphics,Female,1,2,0,1,0,0,0
+Skirts and Shorts,Female,0,2,0,0,0,0,0
+Shorts and Pants,Male,0,0,1,1,0,0,0
+Bottoms Pants,Male,0,0,0,0,1,1,0
